@@ -1,5 +1,11 @@
 # Changelog
 
+## 6.0.0.dev / unreleased
+
+* [BUGFIX] Verify host path consistency by default (#91)
+* [FEATURE] Remove the option to verify host path consistency
+* [ENHANCEMENT] Update development dependencies
+
 ## 5.5.0.master / unreleased
 
 * [ENHANCEMENT] Update development dependencies
