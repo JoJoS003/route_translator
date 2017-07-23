@@ -1,6 +1,10 @@
 # Changelog
 
-## 6.0.0.dev / unreleased
+## 6.0.0.develop / unreleased
+
+* [FEATURE] Remove Engine support (#166, #172)
+
+## 6.0.0.alpha1 / 2017-07-23
 
 * [BUGFIX] Verify host path consistency by default (#91)
 * [FEATURE] Remove the option to verify host path consistency
